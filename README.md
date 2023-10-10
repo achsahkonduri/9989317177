@@ -1,1 +1,7 @@
-# 9989317177
+public class intialtask
+{
+public static void main(string[]args)
+ {
+   system.out.println("hello");
+ }
+ }
